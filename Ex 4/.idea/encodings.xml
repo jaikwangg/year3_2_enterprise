@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/4.1 request-reply/jms-consumer-request-reply-20250204T075617Z-001/jms-consumer-request-reply/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.1 request-reply/jms-consumer-request-reply-20250204T075617Z-001/jms-consumer-request-reply/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.1 request-reply/jms-producer-request-reply-20250204T075621Z-001/jms-producer-request-reply/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.1 request-reply/jms-producer-request-reply-20250204T075621Z-001/jms-producer-request-reply/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.2 request-reply [temporary queue]/jms-consumer-request-reply-20250204T075617Z-001/jms-consumer-request-reply/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.2 request-reply [temporary queue]/jms-consumer-request-reply-20250204T075617Z-001/jms-consumer-request-reply/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.2 request-reply [temporary queue]/jms-producer-request-reply-20250204T075621Z-001/jms-producer-request-reply/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/4.2 request-reply [temporary queue]/jms-producer-request-reply-20250204T075621Z-001/jms-producer-request-reply/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
